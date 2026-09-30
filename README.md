@@ -13,7 +13,7 @@
 - 🧪 Currently building **Deedar Backend and Deedar Dashboard** — a GPU-powered virtual try-on engine (IDM-VTON), live in **[Mahila](https://github.com/UroojFatim/Mahila)**
 - ✅ I also own quality on my own projects — writing test cases and doing manual QA before anything ships
 - 🌱 Learning **modern JavaScript frameworks & system design**
-- 👨‍💻 Portfolio: [portfolio-lime-two-58.vercel.app](https://portfolio-lime-two-58.vercel.app/)
+- 👨‍💻 Portfolio: [engineer-urooj-fatima.vercel.app](https://engineer-urooj-fatima.vercel.app/)
 - 📫 Reach me: **urooj.fatim2004@gmail.com**
 
 ---
